@@ -1,0 +1,72 @@
+Vector1 = [(1, 2, 3, 4)]
+v1 = []
+
+for numbers1 in Vector1:
+    for number1 in numbers1:
+        sqaured1 = number1 **2
+        v1.append(sqaured1)
+print('Vector 1 is ', Vector1)
+print('Square of Vector 1 is ', v1)
+print('The square root of Vector 1 is ', sum(v1)**(1/2))
+print(' ')
+
+Vector2 = [(-1, -2, -3, -4)]
+v2 = []
+
+for numbers2 in Vector2:
+    for number2 in numbers2:
+        sqaured2 = number2 **2
+        v2.append(sqaured2)
+print('Vector 2 is ', Vector2)
+print('Square of Vector 2 is ', v2)
+print('The square root of Vector 2 is ', sum(v2)**(1/2))
+print(' ')
+
+Vector3 = [(1, -2, 3, -4)]
+v3 = []
+
+for numbers3 in Vector3:
+    for number3 in numbers3:
+        sqaured3 = number3 **2
+        v3.append(sqaured3)
+print('Vector 3 is ', Vector3)
+print('Square of Vector 3 is ', v3)
+print('The square root of Vector 3 is', sum(v3)**(1/2))
+print(' ')
+
+Vector4 = [(6, 9, 9, 6)]
+v4 = []
+
+for numbers4 in Vector4:
+    for number4 in numbers4:
+        sqaured4 = number4 **2
+        v4.append(sqaured4)
+print('Vector 4 is ', Vector4)
+print('Square of Vector 4 is ', v4)
+print('The square root of Vector 4 is', sum(v4)**(1/2))
+print(' ')
+
+Vector5 = [(1, 3, 4, 7)]
+v5 = []
+
+for numbers5 in Vector5:
+    for number5 in numbers5:
+        sqaured5 = number5 **2
+        v5.append(sqaured5)
+print('Vector 5 is ', Vector5)
+print('Square of Vector 5 is ', v5)
+print('The square root of Vector 5 is', sum(v5)**(1/2))
+print(' ')
+
+Vector6 = [(6, 9, 4, 2, 0)]
+v6 = []
+
+for numbers6 in Vector6:
+    for number6 in numbers6:
+        sqaured6 = number6 **2
+        v6.append(sqaured6)
+print('Vector 6 is ', Vector6)
+print('Square of Vector 6 is ', v6)
+print('The square root of Vector 6 is', sum(v6)**(1/2))
+print(' ')
+
