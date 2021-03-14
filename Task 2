@@ -58,3 +58,19 @@ print('(Vector 9 * Vector 10) = ', s5)
 print('The inner product of the vectors is', sum(s5))
 print('')
 
+#Reference from Christian Casiño
+#https://github.com/ChristianCasino/Python_activities.git
+#a = [1,2,5,7,9]
+#b = [1,3,10,3,2]
+#c = []
+#
+#print('Given vectors: a = ', a, 'b = ', b)
+#print('Inner Product of two vectors: (a * b)')
+#for i in range(len(a)):
+#    product1 = a[i] * b[i]
+#    print(a[i], '*', b[i], '=', product1, '+')
+#    c.append(product1)
+#print('(a * b) = ',c)
+#print('The sum of all numbers :', sum(c))
+#print('#'*64)
+#
