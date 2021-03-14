@@ -70,3 +70,23 @@ print('Square of Vector 6 is ', v6)
 print('The square root of Vector 6 is', sum(v6)**(1/2))
 print(' ')
 
+
+
+#Reference from Christian Casiño
+#https://github.com/ChristianCasino/Python_activities.git
+#Vector1 = [(1,2,-3,4)]
+#a = []
+#
+#for numbers in Vector1:
+#    for number in numbers:
+#        square1 = number **2
+#        a.append(square1)
+#
+#print('Given:                       ',Vector1)
+#print('The square of all numbers    ',a)
+#print('The sum of all numbers:      ',sum(a))
+#print('The square root of the sum:  ',sum(a)**(1/2))
+#print('#'*64)
+######################################################
+#Vector2 = [(2,5,-3,2)]
+#b = []
